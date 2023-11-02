@@ -1,0 +1,13 @@
+/* Custom CSS to make the form longer */
+.card {
+    height: 400px; /* Adjust the desired height here */
+    margin-top: 50px; /* Add some space at the top */
+}
+
+/* Center the form vertically within the card */
+.card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
